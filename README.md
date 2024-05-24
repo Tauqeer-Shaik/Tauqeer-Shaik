@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Tauqeer Shaik</h1>
-<h3 align="center">A Passionate Data Scientist From Hyderabad</h3>
+<h1 align="center">Hi 👋, I'm Shaik Abdul Tauqeer</h1>
+<h3 align="center">🎓 Aspiring Bachelors Of Engineering  graduate from Lords Institute of Engineering and Technology with a passion for Data Science.Exploring the endless possibilities of data-driven insights and innovation. Open to collaborations and eager to contribute to the world of technology and analytics.Currently honing skills in machine learning, statistical analysis, and data visualization to tackle real-world challenges. Committed to continuous learning and staying updated with the latest advancements in the field. Excited to leverage data science to make meaningful contributions to industries and society. Let's connect and embark on this exciting journey together</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tauqeer-shaik&label=Profile%20views&color=0e75b6&style=flat" alt="tauqeer-shaik" /> </p>
